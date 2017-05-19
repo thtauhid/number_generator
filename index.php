@@ -3,8 +3,6 @@
   <fieldset>
     <legend>Input Your Data Here</legend>
 
-    <input type="text" name="prefix" value="" placeholder="Prefix">
-    <input type="text" name="suffix" value="" placeholder="Suffix"> <br>
     <input type="text" name="from" value="" placeholder="From">
     <input type="text" name="to" value="" placeholder="To">
     <input type="submit" name="" value="Submit">
